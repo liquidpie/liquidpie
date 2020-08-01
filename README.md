@@ -17,6 +17,8 @@ This is the place where I opensource stuff and break things :rofl:
 [<img align="left" alt="liquidpie | Quora" width="22px" src="https://img.icons8.com/windows/32/000000/quora.png" />][quora]
 [<img align="left" alt="liquidpie | Medium" width="22px" src="https://img.icons8.com/ios/50/000000/medium-logo.png" />][medium]
 
+<br />
+
 ### Languages and Tools:
 
 [<img align="left" alt="Java" width="26px" src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png" />][website]
@@ -59,6 +61,7 @@ This is the place where I opensource stuff and break things :rofl:
 [<img align="left" alt="CD" width="26px" src="https://img.icons8.com/color/48/000000/deployment.png" />][website]
 [<img align="left" alt="REST" width="26px" src="https://img.icons8.com/color/48/000000/api-settings.png" />][website]
 [<img align="left" alt="Json" width="26px" src="https://img.icons8.com/nolan/48/json.png" />][website]
+
 
 <br />
 <br />
