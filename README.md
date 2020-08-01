@@ -62,13 +62,9 @@ This is the place where I opensource stuff and break things :rofl:
 [<img align="left" alt="REST" width="26px" src="https://img.icons8.com/color/48/000000/api-settings.png" />][website]
 [<img align="left" alt="Json" width="26px" src="https://img.icons8.com/nolan/48/json.png" />][website]
 
-
-<br />
 <br />
 
----
-
-### 📕 Latest Blog Posts
+### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Building LRU (Least Recently Used) Cache](https://www.vivekjaiswal.me/2018/Building-LRU-Least-Recently-Used-Cache)
 - [Click Through Rate Prediction Model](https://www.vivekjaiswal.me/2018/Click-Through-Rate-Prediction-Model)
@@ -79,13 +75,6 @@ This is the place where I opensource stuff and break things :rofl:
 
 <img align="left" alt="liquidpie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=liquidpie&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=onedark" />
 
-<br />
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liquidpie&layout=compact&theme=onedark)](https://github.com/liquidpie/github-readme-stats)
-
-<br />
-<br />
 
 [website]: https://vivekjaiswal.me
 [twitter]: https://twitter.com/vivekjaiswal22
