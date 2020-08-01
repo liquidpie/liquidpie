@@ -21,6 +21,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 #### Languages and Tools
 
+<div>
 <img align="left" alt="Java" width="26px" src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png" />
 <img align="left" alt="Spring" width="26px" src="https://img.icons8.com/color/48/000000/spring-logo.png" />
 <img align="left" alt="NodeJS" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png" />
@@ -61,6 +62,7 @@ This is the place where I opensource stuff and break things :rofl:
 <img align="left" alt="CD" width="26px" src="https://img.icons8.com/color/48/000000/deployment.png" />
 <img align="left" alt="REST" width="26px" src="https://img.icons8.com/color/48/000000/api-settings.png" />
 <img align="left" alt="Json" width="26px" src="https://img.icons8.com/nolan/48/json.png" />
+<div/>
 
 <br />
 <br />
