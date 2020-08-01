@@ -62,10 +62,7 @@ This is the place where I opensource stuff and break things :rofl:
 [<img align="left" alt="REST" width="26px" src="https://img.icons8.com/color/48/000000/api-settings.png" />][website]
 [<img align="left" alt="Json" width="26px" src="https://img.icons8.com/nolan/48/json.png" />][website]
 
-
 <br />
-<br />
-
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
