@@ -51,7 +51,7 @@ This is the place where I opensource stuff and break things :rofl:
 <img align="left" alt="IntelliJ" width="26px" src="https://img.icons8.com/color/48/000000/intellij-idea.png" />
 <img align="left" alt="VS Code" width="26px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
 <img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
-<img align="left" alt="Bitbucket" width="26px" src="https://img.icons8.com/color/48/000000/bitbucket.png" />]
+<img align="left" alt="Bitbucket" width="26px" src="https://img.icons8.com/color/48/000000/bitbucket.png" />
 <img align="left" alt="Jira" width="26px" src="https://img.icons8.com/color/48/000000/jira.png" />
 <img align="left" alt="MacOS" width="26px" src="https://img.icons8.com/color/48/000000/mac-logo.png" />
 <img align="left" alt="Windows" width="26px" src="https://img.icons8.com/color/48/000000/windows-10.png" />
