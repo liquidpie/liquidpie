@@ -1,7 +1,8 @@
 ### Hi there, I'm Vivek - aka [liquidpie][website] 👋
-This is the place where I opensource stuff and break things :rofl:
 
 ![Website](https://img.shields.io/website?label=vivekjaiswal.me&style=for-the-badge&up_message=UP&url=http%3A%2F%2Fvivekjaiswal.me)
+
+This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning AI and ML
