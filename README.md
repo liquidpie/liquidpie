@@ -80,8 +80,12 @@ This is the place where I opensource stuff and break things :rofl:
 
 <img align="left" alt="liquidpie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=liquidpie&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=onedark" />
 
+<details>
+  <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
 
+<!--END_SECTION:activity-->
+</details>
 
 [website]: https://vivekjaiswal.me
 [twitter]: https://twitter.com/vivekjaiswal22
