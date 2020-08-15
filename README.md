@@ -1,6 +1,6 @@
 ### Hi there, I'm Vivek - aka [liquidpie][website] 👋
 
-![Website](https://img.shields.io/website?label=vivekjaiswal.me&style=for-the-badge&up_message=UP&url=http%3A%2F%2Fvivekjaiswal.me)
+[![Website](https://img.shields.io/website?label=vivekjaiswal.me&style=for-the-badge&up_message=UP&url=http%3A%2F%2Fvivekjaiswal.me)](http://www.vivekjaiswal.me)
 
 This is the place where I opensource stuff and break things :rofl:
 
