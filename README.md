@@ -1,6 +1,8 @@
 ### Hi there, I'm Vivek - aka [liquidpie][website] 👋
 This is the place where I opensource stuff and break things :rofl:
 
+![Website](https://img.shields.io/website?label=vivekjaiswal.me&style=for-the-badge&up_message=UP&url=http%3A%2F%2Fvivekjaiswal.me)
+
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning AI and ML
 - 💬 Ask me about anything related to Java/Python/NodeJS
@@ -79,19 +81,20 @@ This is the place where I opensource stuff and break things :rofl:
 ---
 
 <details>
+  <summary>:zap: Recent Github Activity</summary>
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+</details>
+
+
+<details>
   <summary>:zap: Github Stats</summary>
 
 <img align="left" alt="liquidpie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=liquidpie&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=onedark" />
 
 </details>
 
-<br />
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-</details>
 
 [website]: https://vivekjaiswal.me
 [twitter]: https://twitter.com/vivekjaiswal22
