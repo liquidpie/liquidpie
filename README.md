@@ -8,7 +8,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🌱 I’m currently learning AI and ML
 - 💬 Ask me about anything related to Java/Python/NodeJS
 - :tickets: Featured on [Awesome Tech Blogs][atb]
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 Year Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to run marathons and design graphics 
 
 
