@@ -7,6 +7,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning AI and ML
 - 💬 Ask me about anything related to Java/Python/NodeJS
+- :tickets: Featured on [Awesome Tech Blogs][atb]
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to run marathons and design graphics 
 
@@ -90,8 +91,9 @@ This is the place where I opensource stuff and break things :rofl:
 
 
 [website]: https://vivekjaiswal.me
-[twitter]: https://twitter.com/vivekjaiswal22
+[twitter]: https://twitter.com/liquidpie22
 [linkedin]: https://linkedin.com/in/vivek223
 [quora]: https://www.quora.com/profile/Vivek-Jaiswal-13
 [medium]: https://medium.com/@liquidpie
 [stackoverflow]: https://stackoverflow.com/users/2596827/liquidpie?tab=profile
+[atb]: https://tech-blogs.dev
